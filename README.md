@@ -58,17 +58,17 @@ A simple e-commerce clothing website built using the MERN stack (MongoDB, Expres
 
 4. View
 
-   Got to [localhost:5173/](http://localhost:5173/) for Client Page
-   Got to [localhost:5174/](http://localhost:5174/) for Admin Page
+   Got to [localhost:5174/](http://localhost:5174/) for Client Page.
+   Got to [localhost:5173/](http://localhost:5173/) for Admin Page.
 
 
 ## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/01d9ac34-dcd0-4950-8a6b-33cff1798387)
-![Image](https://github.com/user-attachments/assets/ac3b1367-f076-4728-bbed-eca5c66f893f)
 ![Image](https://github.com/user-attachments/assets/71103baf-843a-4d40-bf50-4b9e55cb02e5)
 ![Image](https://github.com/user-attachments/assets/e7b7b555-a294-40f0-aef4-5ecc072fc987)
 ![Image](https://github.com/user-attachments/assets/657b0240-8a28-4d39-a004-a4d5d34447e0)
+![Image](https://github.com/user-attachments/assets/ac3b1367-f076-4728-bbed-eca5c66f893f)
 
 
 ### Enjoy!
